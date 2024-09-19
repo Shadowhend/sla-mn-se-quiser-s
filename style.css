@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(135, 26, 26);
+    color : white;
+    font-family: "Kiwi Maru", serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+
+button {
+    
+background-color: red;
+color: rgb(255, 255, 255);
+font-family: "Kiwi Maru", serif;
+
+    margin-left: 0px;
+    margin-right: 5px;
+}
+
+.passo {
+    display: none;
+}
+.passo.ativo{
+    display:block;
+    
+}
+.introdução {
+  
+     max-width: 80%;
+    
+
+}
+
+.intro {
+    margin-left: 50px;
+}
+
+main{
+    max-width: 90%;
+    text-align: center;
+}
+
+.mula {
+    height: 500px;
+    width: 700px;
+}
+
+.ala {
+    height: 450px;
+    width: 700px;
+}
+
+.sla{
+    height: 600px;
+}
+
+.a{
+    height: 450px;
+}
